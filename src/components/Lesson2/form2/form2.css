@@ -1,0 +1,4 @@
+.Form-btn[disabled] {
+	background-color: #a900008a;
+	cursor: unset;
+}
